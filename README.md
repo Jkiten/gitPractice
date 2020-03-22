@@ -1,1 +1,2 @@
 # gitPractice
+git reset Head
